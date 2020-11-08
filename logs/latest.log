@@ -1,39 +1,28 @@
-[10:04:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[10:04:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:04:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:04:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:04:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:04:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:04:05] [main/INFO]: Reloading ResourceManager: Default
-[10:04:06] [Worker-Main-12/INFO]: Loaded 7 recipes
-[10:04:07] [Worker-Main-12/INFO]: Loaded 927 advancements
-[10:04:12] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[10:04:12] [Server thread/INFO]: Loading properties
-[10:04:12] [Server thread/INFO]: Default game type: CREATIVE
-[10:04:12] [Server thread/INFO]: Generating keypair
-[10:04:12] [Server thread/INFO]: Starting Minecraft server on 25.7.248.241:25565
-[10:04:12] [Server thread/INFO]: Using default channel type
-[10:04:13] [Server thread/INFO]: Preparing level "world"
-[10:04:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:04:14] [Server thread/INFO]: Preparing spawn area: 0%
-[10:04:14] [Server thread/INFO]: Preparing spawn area: 0%
-[10:04:15] [Server thread/INFO]: Preparing spawn area: 0%
-[10:04:15] [Server thread/INFO]: Time elapsed: 1639 ms
-[10:04:15] [Server thread/INFO]: Done (1.741s)! For help, type "help"
-[10:04:24] [User Authenticator #1/INFO]: UUID of player Dead_Defiance is 8709fb7a-b863-4109-81ab-d9b197668a89
-[10:04:24] [Server thread/INFO]: Dead_Defiance[/25.7.248.241:64156] logged in with entity id 100 at (1701.250177615926, 70.0, 250.335672281847)
-[10:04:24] [Server thread/INFO]: Dead_Defiance joined the game
-[10:04:37] [Server thread/INFO]: Dead_Defiance lost connection: Disconnected
-[10:04:37] [Server thread/INFO]: Dead_Defiance left the game
-[10:04:46] [Server thread/INFO]: Stopping server
-[10:04:46] [Server thread/INFO]: Saving players
-[10:04:46] [Server thread/INFO]: Saving worlds
-[10:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Straw Hats]'/minecraft:overworld
-[10:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Straw Hats]'/minecraft:the_nether
-[10:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:04:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Straw Hats]'/minecraft:the_end
-[10:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:04:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:35:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:35:40] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[10:35:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:35:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:35:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:35:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:35:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:35:40] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:35:40] [Worker-Main-12/INFO]: Loaded 7 recipes
+[10:35:41] [Worker-Main-12/INFO]: Loaded 927 advancements
+[10:35:42] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[10:35:42] [Server thread/INFO]: Loading properties
+[10:35:42] [Server thread/INFO]: Default game type: CREATIVE
+[10:35:42] [Server thread/INFO]: Generating keypair
+[10:35:42] [Server thread/INFO]: Starting Minecraft server on 25.7.248.241:25565
+[10:35:42] [Server thread/INFO]: Using default channel type
+[10:35:44] [Server thread/INFO]: Preparing level "world"
+[10:35:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:35:45] [Server thread/INFO]: Preparing spawn area: 0%
+[10:35:45] [Server thread/INFO]: Preparing spawn area: 0%
+[10:35:45] [Server thread/INFO]: Preparing spawn area: 0%
+[10:35:46] [Server thread/INFO]: Time elapsed: 2054 ms
+[10:35:46] [Server thread/INFO]: Done (2.163s)! For help, type "help"
+[10:35:53] [User Authenticator #1/INFO]: UUID of player Dead_Defiance is 8709fb7a-b863-4109-81ab-d9b197668a89
+[10:35:53] [Server thread/INFO]: Dead_Defiance[/25.7.248.241:49581] logged in with entity id 97 at (1695.7629900848879, 72.0, 244.39632549602823)
+[10:35:53] [Server thread/INFO]: Dead_Defiance joined the game
+[10:35:56] [Server thread/INFO]: Dead_Defiance lost connection: Disconnected
+[10:35:56] [Server thread/INFO]: Dead_Defiance left the game
